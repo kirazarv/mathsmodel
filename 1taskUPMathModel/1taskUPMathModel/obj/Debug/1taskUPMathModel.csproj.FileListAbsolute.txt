@@ -1,0 +1,7 @@
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\bin\Debug\1taskUPMathModel.exe.config
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\bin\Debug\1taskUPMathModel.exe
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\bin\Debug\1taskUPMathModel.pdb
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\obj\Debug\1taskUPMathModel.csproj.AssemblyReference.cache
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\obj\Debug\1taskUPMathModel.csproj.CoreCompileInputs.cache
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\obj\Debug\1taskUPMathModel.exe
+D:\Users\User\repos VS\1TaskUPMathModel\1taskUPMathModel\1taskUPMathModel\obj\Debug\1taskUPMathModel.pdb
